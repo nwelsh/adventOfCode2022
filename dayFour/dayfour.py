@@ -13,4 +13,4 @@ with open('test1.txt') as fp:
                 else:
                     points *= 2
         total += points
-print("total", str(total))
+print("total", str(total)) #answer: 15268
